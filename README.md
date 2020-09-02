@@ -1,6 +1,9 @@
 # obstacle-avoidance
 This solution allows us to move autonomous vehicles without hitting any obstacles.
 
+# output
+<img src="https://github.com/auto-pilot/obstacle-avoidance/blob/master/output/output1.png" width="400">
+
 Resources
 
 Time to Contact and Focus of Expansion by Peter O’Donovan 
